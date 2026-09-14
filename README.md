@@ -2,6 +2,7 @@
 Portafolio individual del workshop “Ingeniero de Pruebas en el Desarrollo Moderno”.
 
 Autor: Victor Inocente Vera Cabrera
+
 Este repositorio contendrá los entregables desarrollados durante el workshop.
 
 ## Estado actual
