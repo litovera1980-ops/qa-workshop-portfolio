@@ -1,4 +1,6 @@
-# QA Workshop Portfolio
+``` diff
++ # QA Workshop Portfolio
+```
 Portafolio individual del workshop “Ingeniero de Pruebas en el Desarrollo Moderno”.
 
 Autor: Victor Inocente Vera Cabrera
