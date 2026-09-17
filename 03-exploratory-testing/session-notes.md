@@ -9,7 +9,7 @@
 
 ## ÁREAS
 - Plataforma JpetStore
-- [https://](https://petstore.octoperf.com/actions/Catalog.action)
+- https://petstore.octoperf.com/actions/Catalog.action
 - Navegador Chrome / SO Windows 11
 
 ## INICIO
