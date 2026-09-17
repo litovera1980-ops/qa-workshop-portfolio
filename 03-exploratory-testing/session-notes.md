@@ -35,7 +35,7 @@ Apuntes/información proveída por el administrador de la tienda en cuanto al in
 Riesgo R5: datos imprecisos la presencia de imágenes rotas, genéricas o descripciones imprecisas en las mascotas puede generar desconfianza en el usuario o llevar a la cancelación de pedidos al no recibir el producto visualizado.
 
 ## DEFECTOS (BUGS)
-BUG-R5-01: misma imagen para todas las razas de perros en la categoría "Dogs" (razas completamente distintas).
+BUG-R5-01: imagenes genéricas para todas las razas de perros en la categoría "Dogs" e inclusive misma imágen para razas completamente distintas.
 
 BUG-R5-02: descripción incompleta en la categoría "Fish" (falta información como requerimientos del espécimen).
 
