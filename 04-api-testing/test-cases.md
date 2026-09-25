@@ -15,7 +15,7 @@
 **Resultado obtenido: 200 OK**
 
 **Evidencia: 
-![Evidencia API-01]<evidence\api-01 get feliz.png>**
+![Evidencia API-01](04-api-testing/evidence/api-01 get feliz.png)**
 
 ---
 
@@ -34,7 +34,7 @@
 **Resultado obtenido: 404 Not found, no existe la mascota que se quiere consultar**
 
 **Evidencia:
-![Evidencia API-02]<evidence/api-02 get NO feliz.png>**
+![Evidencia API-02](04-api-testing/evidence/api-02 get NO feliz.png)**
 
 ---
 
