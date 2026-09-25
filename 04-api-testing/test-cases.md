@@ -15,7 +15,8 @@
 **Resultado obtenido: 200 OK**
 
 **Evidencia: 
-![alt text](<api-01 get feliz.png>)**
+
+![alt text](<04-api-testing\evidence\api-01 get feliz.png>)**
 
 ---
 
