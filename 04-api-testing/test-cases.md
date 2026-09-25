@@ -16,7 +16,7 @@
 
 **Evidencia: 
 
-![alt text](<04-api-testing\evidence\api-01 get feliz.png>)**
+![Evidencia API-01](evidence\api-01 get feliz.png)**
 
 ---
 
