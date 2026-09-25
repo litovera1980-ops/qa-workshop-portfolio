@@ -117,10 +117,21 @@
 # Conclusiones
 
 ## Resultados relevantes
-¿Qué resultados consideras más importantes y por qué?
+- Consistencia de datos al no permitir la carga de datos inválidos (caracteres alfanuméricos), se evita corrupción en el ID de las mascotas.
+- En ambos casos felices, los resultados demostraron consistencia al responder correctamente según lo que se esperaba.
 
 ## Limitaciones
-¿Qué aspectos no pudiste verificar?
+- Funcionalidades críticas, compra con usuario registrado y compra sin registrarse.
+- Opción de búsqueda.
+- Inventario completo de mascotas.
+- Estructura de la página y creación de nueva sección de productos.
+
 
 ## Pruebas adicionales
-¿Qué otras pruebas realizarías si tuvieras más tiempo?
+De contar con mas tiempo, automatizaría y ampliaría las pruebas utilizando Playwright, esto ayudaría a poder abarcar los puntos que quedaron pendientes ya citados en el item anterior "Limitaciones"
+Adicionalmente se podrían incluir pruebas de:
+ - Validación de stock
+ - Anulación de pedidos
+ - Varios métodos de pago
+ - Métodos de retiro (en tienda, envío por courier)
+
