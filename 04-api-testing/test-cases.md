@@ -14,8 +14,8 @@
 
 **Resultado obtenido: 200 OK**
 
-**Evidencia: 
-![Evidencia API-01](evidence/api-01 get feliz.png)**
+**Evidencia:
+![Evidencia Api01](evidence/api-01%20get%20feliz.png)
 
 ---
 
@@ -34,7 +34,7 @@
 **Resultado obtenido: 404 Not found, no existe la mascota que se quiere consultar**
 
 **Evidencia:
-![Evidencia API-02](evidence/api-02 get NO feliz.png)**
+![Evidencia Api02](evidence/api-02%20get%20NO%20feliz.png)
 
 ---
 
@@ -72,7 +72,8 @@
 **Resultado obtenido: 200 OK, la mascota fué creada correctamente**
 
 **Evidencia:
-![alt text](<api-03 post feliz.png>)**
+![Evidencia Api03](evidence/api-03%20post%20feliz.png)
+
 
 ---
 
@@ -109,4 +110,17 @@
 **Resultado obtenido: código 400, no se pudo grabar la mascota debito al carácter inválido en el petId (A)**
 
 **Evidencia:
-![alt text](<api-04 post NO feliz.png>)**
+![Evidencia Api04](evidence/api-04%20post%20NO%20feliz.png)
+
+
+
+# Conclusiones
+
+## Resultados relevantes
+¿Qué resultados consideras más importantes y por qué?
+
+## Limitaciones
+¿Qué aspectos no pudiste verificar?
+
+## Pruebas adicionales
+¿Qué otras pruebas realizarías si tuvieras más tiempo?
